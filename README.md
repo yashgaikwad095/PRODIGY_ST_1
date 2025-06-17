@@ -18,4 +18,4 @@ Internship Track:
 Software Testing & QA – Prodigy Infotech
 
 Submitted by:
-Gwaikwad Yash
+Gaikwad Yash
